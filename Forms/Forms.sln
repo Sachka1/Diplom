@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HH.ru Helper", "Forms\HH.ru Helper.csproj", "{49AB0A02-7FE4-4E5F-93F0-04A59ACBCF9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49AB0A02-7FE4-4E5F-93F0-04A59ACBCF9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49AB0A02-7FE4-4E5F-93F0-04A59ACBCF9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49AB0A02-7FE4-4E5F-93F0-04A59ACBCF9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49AB0A02-7FE4-4E5F-93F0-04A59ACBCF9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70CD3D4A-32DD-41C2-A4F6-2C7F5D01101E}
+	EndGlobalSection
+EndGlobal
